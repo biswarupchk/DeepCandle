@@ -1,0 +1,6 @@
+MODEL_PATH = "model/marubozu_model.h5"
+THRESHOLD = 0.80
+
+TELEGRAM_BOT_TOKEN = "8479729316:AAG02fC0joa9vtgeoBQ3akxwCpHtpiBdzzI"
+TELEGRAM_CHAT_ID = "1614929989"
+
